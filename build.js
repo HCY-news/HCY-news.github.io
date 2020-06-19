@@ -9,7 +9,7 @@ require('showdown-highlightjs-extension');
 const READ_DIR = './blog';
 const WRITE_DIR = './dist';
 const TEMPLATE = './template.html';
-const BLOG_ROOT = process.env.BLOG_ROOT || '/';
+const BLOG_ROOT = process.env.BLOG_ROOT || '';
 
 const langName = {
     en: "English",
