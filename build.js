@@ -86,19 +86,25 @@ let makeNavs = (nav, selfTarget, lang) => {
     } else {
 
         // Directory-nav
+        let childCount = 0;
         let html = '<ul>';
         for(let [name, child] of Object.entries(nav)) {
             if(lang && child.lang && child.lang !== lang) continue;
-            html += `
-                <li>
-                    ${!isEnd(child) ? `<span class="nav-name">${name}</span>` : ''}
-                    ${makeNavs(child, selfTarget, lang)}
-                </li>
-            `;
+
+            let childHtml = makeNavs(child, selfTarget, lang);
+            if(childHtml !== '') {
+                html += `
+                    <li>
+                        ${!isEnd(child) ? `<span class="nav-name">${name}</span>` : ''}
+                        ${childHtml}
+                    </li>
+                `;
+                childCount++;
+            }
         }
         html += '</ul>';
 
-        return html;
+        return childCount > 0 ? html : '';
     }
 }
 
