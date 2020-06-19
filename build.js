@@ -88,7 +88,11 @@ let makeNavs = (nav, selfTarget, lang) => {
         // Directory-nav
         let childCount = 0;
         let html = '<ul>';
-        for(let name of Object.keys(nav).sort()) {
+        for(let name of Object.keys(nav).sort((a, b) => {
+            if(a.startsWith('index')) return -1;
+            if(b.startsWith('index')) return  1;
+            return a - b;
+        })) {
             let child = nav[name];
             if(lang && child.lang && child.lang !== lang) continue;
 
