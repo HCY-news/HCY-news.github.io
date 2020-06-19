@@ -88,14 +88,15 @@ let makeNavs = (nav, selfTarget, lang) => {
         // Directory-nav
         let childCount = 0;
         let html = '<ul>';
-        for(let [name, child] of Object.entries(nav)) {
+        for(let name of Object.keys(nav).sort()) {
+            let child = nav[name];
             if(lang && child.lang && child.lang !== lang) continue;
 
             let childHtml = makeNavs(child, selfTarget, lang);
             if(childHtml !== '') {
                 html += `
                     <li>
-                        ${!isEnd(child) ? `<span class="nav-name">${name}</span>` : ''}
+                        ${!isEnd(child) ? `<span class="nav-name">${name.replace(/^[0-9.]*\./, '')}</span>` : ''}
                         ${childHtml}
                     </li>
                 `;
