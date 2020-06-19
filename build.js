@@ -78,9 +78,9 @@ let makeNavs = (nav, selfTarget, lang) => {
     if(isEnd(nav)) {
         // Page-nav
         if(nav.target === selfTarget) {
-            return `<span class="nav-name" >${nav.title}</span>`;
+            return `<span class="nav-name nav-current" >${nav.title}</span>`;
         } else {
-            return `<a class="nav-page" href="/${nav.target}">${nav.title}</a>`;
+            return `<a class="nav-name" href="/${nav.target}">${nav.title}</a>`;
         }
 
     } else {
@@ -95,7 +95,7 @@ let makeNavs = (nav, selfTarget, lang) => {
             let childHtml = makeNavs(child, selfTarget, lang);
             if(childHtml !== '') {
                 html += `
-                    <li>
+                    <li tabindex=0>
                         ${!isEnd(child) ? `<span class="nav-name">${name.replace(/^[0-9.]*\./, '')}</span>` : ''}
                         ${childHtml}
                     </li>

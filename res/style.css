@@ -1,12 +1,18 @@
 :root {
     --bg-color: #222;
+    --bg-highlight: #777;
     --bg-code: #111;
+    --bg-nav: #555;
+    --bg-nav2: #666;
+    --bg-header: #444;
     --fg-color: #aaa;
     --fg-header: #a80;
     --fg-title: #bbb;
     --fg-dim: #666;
     --fg-highlight: #a80;
     --fg-hover: #b91;
+    --fg-nav: #ccc;
+    --fg-nav-current: #ddd;
 
     --content-width: 50vw;
     --footer-height: 30px;
@@ -36,6 +42,7 @@ a:hover {
 
 #header {
     color: var(--fg-header);
+    background-color: var(--bg-header);
     font-size: 1.5em;
     font-weight: bold;
     padding: 1em;
@@ -61,13 +68,116 @@ a:hover {
     top: 2px;
 }
 
+#nav {
+    background-color: var(--bg-nav);
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+    color: var(--fg-nav);
+    text-align: left;
+    z-index: 10;
+}
+
+#nav a {
+    text-decoration: none;
+}
+
+#nav a:hover {
+    color: var(--fg-nav);
+}
+
+#nav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+#nav li {
+    cursor: pointer;
+    padding 0.5em 0.2em;
+    min-width: 3em;
+}
+
+#nav li:hover, #nav li:focus {
+    background-color: var(--bg-highlight);
+}
+
+#nav li {
+    text-align: left;
+    padding: 0.5em;
+}
+
+#nav > ul {
+    margin: 0;
+}
+
+#nav > ul > li {
+    display: inline-block;
+    position: relative;
+    line-height: 1em;
+}
+
+#nav > ul ul {
+    position: absolute;
+    display: none;
+    background-color: var(--bg-nav2);
+}
+
+#nav li:hover > ul, #nav li:focus > ul {
+    display: block;
+}
+
+#nav > ul > li > ul {
+    top: 2em;
+    left: 0;
+}
+
+#nav > ul > li > ul ul {
+    top: 0;
+    right: 0;
+    transform: translate(100%, 0);
+}
+
+@media only screen and (max-width: 500px) {
+    #nav {
+        position: static;
+        white-space: normal;
+        padding: 0;
+    }
+
+    #nav ul {
+        position: static !important;
+        transform: none !important;
+    }
+
+    .nav-name {
+        display: inline-block;
+        padding: 0.5em;
+    }
+
+    #nav li {
+        width: 100vw;
+        padding: 0;
+    }
+}
+
+.nav-name {
+    color: var(--fg-nav);
+    display: inline-block;
+    width: 100%;
+}
+
+.nav-current {
+    color: var(--fg-nav-current);
+}
+
 #footer {
     position: absolute;
     height: var(--footer-height);
+    width: 100%;
     bottom: 0;
-    left: 50%;
-    transform: translate(-50%, 0);
     font-size: 0.8em;
+    padding: 0.5em 0;
+    background-color: var(--bg-header);
 }
 
 #content {
