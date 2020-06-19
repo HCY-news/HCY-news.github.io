@@ -41,7 +41,7 @@ for(let file of files) {
     let data = fs.readFileSync(file, 'utf-8');
     let rel = path.relative(READ_DIR, file);
     let target = rel.replace(/\.md$/, '.html');
-    let navs = rel.split('/');
+    let navs = rel.split(path.sep);
 
     let page = pageNavs;
     for(let nav of navs) {
