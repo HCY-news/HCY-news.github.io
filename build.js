@@ -14,6 +14,7 @@ const BLOG_ROOT = process.env.BLOG_ROOT || '';
 const langName = {
     en: "English",
     'zh-TW': "繁體中文"
+    'zh-CN': "簡体中文"
 };
 
 if(!fs.existsSync(WRITE_DIR)) {
