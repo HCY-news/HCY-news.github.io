@@ -15,7 +15,7 @@
     --fg-nav-current: #ddd;
 
     --content-width: 50vw;
-    --footer-height: 30px;
+    --footer-height: 80px;
 }
 
 html {
@@ -27,9 +27,10 @@ body {
     color: var(--fg-color);
     background-color: var(--bg-color);
     text-align: center;
-    font-family: Arial;
-    font-size: 20px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 18px;
     margin: 0 0 var(--footer-height);
+	min-width: 300px;
 }
 
 a {
@@ -77,9 +78,8 @@ a:hover {
     top: 0;
     white-space: nowrap;
     color: var(--fg-nav);
-    text-align: left;
+    text-align: center;
     z-index: 5;
-	padding-left: 25%;
 }
 
 #nav a {
@@ -93,6 +93,7 @@ a:hover {
 #nav ul {
     list-style: none;
     padding-left: 0;
+	display: inline-block;
 }
 
 #nav li {
@@ -141,7 +142,7 @@ a:hover {
     transform: translate(100%, 0);
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 650px) {
     #nav {
         position: static;
         white-space: normal;
@@ -177,7 +178,7 @@ a:hover {
 
 #nav-logo {
 	height: 2em;
-	float: left;
+	vertical-align: middle;
 }
 
 #footer {
@@ -186,13 +187,12 @@ a:hover {
     width: 100%;
     bottom: 0;
     font-size: 0.8em;
-    line-height: var(--foter-height);
+    line-height: var(--footer-height);
     background-color: var(--bg-header);
 }
 
 #content {
     width: var(--content-width);
-    min-width: 300px;
     max-width: 20cm;
     display: inline-block;
     padding: 1em;
@@ -228,6 +228,10 @@ a:hover {
     color: var(--fg-title);
     font-size: 2em;
     font-weight: bold;
+}
+
+#content iframe {
+	margin: 0.5em 0;
 }
 
 #title {
