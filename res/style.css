@@ -1,11 +1,11 @@
 :root {
-    --bg-color: #222;
-    --bg-highlight: #777;
+    --bg-color: #901919;
+    --bg-highlight: #4a0909;
     --bg-code: #111;
-    --bg-nav: #555;
+    --bg-nav: #000;
     --bg-nav2: #666;
     --bg-header: #444;
-    --fg-color: #aaa;
+    --fg-color: #fbb0b0;
     --fg-header: #a80;
     --fg-title: #bbb;
     --fg-dim: #666;
@@ -42,10 +42,12 @@ a:hover {
 
 #header {
     color: var(--fg-header);
-    background-color: var(--bg-header);
+    background-image: url(https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/2566840/441411_844139.jpeg);
+	background-size: cover;
     font-size: 1.5em;
     font-weight: bold;
     padding: 1em;
+	min-height: 5em;
 }
 
 #header h1 {
@@ -66,6 +68,7 @@ a:hover {
     min-width: 3em;
     right: 2px;
     top: 2px;
+	z-index: 10;
 }
 
 #nav {
@@ -75,7 +78,8 @@ a:hover {
     white-space: nowrap;
     color: var(--fg-nav);
     text-align: left;
-    z-index: 10;
+    z-index: 5;
+	padding-left: 25%;
 }
 
 #nav a {
@@ -171,13 +175,18 @@ a:hover {
     color: var(--fg-nav-current);
 }
 
+#nav-logo {
+	height: 2em;
+	float: left;
+}
+
 #footer {
     position: absolute;
     height: var(--footer-height);
     width: 100%;
     bottom: 0;
     font-size: 0.8em;
-    padding: 0.5em 0;
+    line-height: var(--foter-height);
     background-color: var(--bg-header);
 }
 
@@ -201,12 +210,28 @@ a:hover {
     display: inline-block;
     margin: 0.5em 0;
     vertical-align: top;
+    object-fit: cover;
+    object-position: center;
+}
+
+#content img[alt="left"] {
+	float: left;
+	margin: 0.5em;
+}
+
+#content img[alt="right"] {
+	float: right;
+	margin: 0.5em;
 }
 
 #content h1 {
     color: var(--fg-title);
     font-size: 2em;
     font-weight: bold;
+}
+
+#title {
+	text-align: center;
 }
 
 #content pre {
@@ -228,22 +253,6 @@ a:hover {
 #content pre::-webkit-scrollbar-corner,
 #content pre::-webkit-scrollbar-track {
     background: var(--bg-color);
-}
-
-#content h1 + h2 {
-    color: var(--fg-dim);
-    text-decoration: none;
-    font-weight: normal;
-    font-size: 1em;
-    position: relative;
-    top: -20px;
-}
-
-#content .post img {
-    width: 100%;
-    max-height: calc(var(--content-width) * 3 / 4);
-    object-fit: cover;
-    object-position: center;
 }
 
 #content .post a {

@@ -4,7 +4,7 @@ var glob = require('glob');
 
 var {JSDOM} = require('jsdom');
 var showdown = require('showdown');
-require('showdown-highlightjs-extension');
+//require('showdown-highlightjs-extension');
 
 const READ_DIR = './blog';
 const WRITE_DIR = './dist';
@@ -25,7 +25,7 @@ let converter = new showdown.Converter({
     parseImgDimensions: true,
     openLinksInNewWindow: true,
     tables: true,
-    extensions: ['highlightjs']
+    //extensions: ['highlightjs']
 });
 
 let template = fs.readFileSync(TEMPLATE, 'utf-8');
@@ -118,7 +118,7 @@ let makeHTML = page => {
 
     // Contents
     document.getElementById('title').innerHTML = page.title;
-    document.getElementById('nav').innerHTML = makeNavs(pageNavs, page.target, page.lang);
+    document.getElementById('nav').innerHTML += makeNavs(pageNavs, page.target, page.lang);
     document.getElementById('content').innerHTML = page.content;
     document.getElementById('lang-select').innerHTML =
         page.langs.map(l => l && `
