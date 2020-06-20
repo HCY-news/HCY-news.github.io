@@ -1,11 +1,11 @@
 :root {
-    --bg-color: #901919;
+    --bg-color: #1b0808;
     --bg-highlight: #4a0909;
     --bg-code: #111;
     --bg-nav: #000;
     --bg-nav2: #666;
     --bg-header: #444;
-    --fg-color: #fbb0b0;
+    --fg-color: #cab4b4;
     --fg-header: #a80;
     --fg-title: #bbb;
     --fg-dim: #666;
@@ -42,11 +42,12 @@ a:hover {
 
 #header {
     color: var(--fg-header);
-    background-image: url(https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/2566840/441411_844139.jpeg);
+    background-image: url(https://s1.ax1x.com/2020/06/20/NlpIi9.jpg);
 	background-size: cover;
+	background-position: center;
     font-size: 1.5em;
     font-weight: bold;
-	min-height: 5em;
+	min-height: 8em;
 	min-width: 300px;
 }
 
@@ -72,6 +73,7 @@ a:hover {
     text-align: left;
     padding: 0.2em;
     overflow: hidden;
+	cursor: pointer;
 }
 
 #lang-select, #lang-select a {
@@ -258,8 +260,11 @@ a:hover {
 }
 
 #content h1 {
-    color: var(--fg-title);
     font-size: 2em;
+}
+
+#content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+    color: var(--fg-title);
     font-weight: bold;
 }
 
