@@ -13,7 +13,7 @@ const BLOG_ROOT = process.env.BLOG_ROOT || '';
 
 const langName = {
     en: "English",
-    'zh-TW': "繁體中文"
+    'zh-TW': "繁體中文",
     'zh-CN': "簡体中文"
 };
 
@@ -64,6 +64,7 @@ for(let file of files) {
     let langs = glob.sync(file.replace(/\.[^.]+\.md$/, '.*.md')).map(getLang);
 
     page.title = title || path.basename(file).replace(/(\..*){0,1}\.md/, '');
+    page.name = path.basename(file).replace(/(\.[^.]+)*\.md$/, '');
     page.date = date;
     page.lang = lang;
     page.langs = langs;
@@ -121,11 +122,16 @@ let makeHTML = page => {
     document.getElementById('title').innerHTML = page.title;
     document.getElementById('nav').innerHTML += makeNavs(pageNavs, page.target, page.lang);
     document.getElementById('content').innerHTML = page.content;
+
+    // Language list
     document.getElementById('lang-select').innerHTML =
-        page.langs.map(l => l && `
-            <option value="${l}" ${l === page.lang ? 'selected disabled' : ''}>
-                ${langName[l] || l}
-            </option>
+        `<li>${langName[page.lang] || page.lang}</li>` +
+        page.langs.map(lang => lang && lang !== page.lang && `
+            <li>
+                <a href="${page.name}.${lang}.html"}>
+                    ${langName[lang] || lang}
+                </a>
+            </li>
         ` || '').reduce((a,c) => a+c, '');
 
     // Change root of absolute paths
