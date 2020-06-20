@@ -30,7 +30,6 @@ body {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 18px;
     margin: 0 0 var(--footer-height);
-	min-width: 300px;
 }
 
 a {
@@ -47,8 +46,8 @@ a:hover {
 	background-size: cover;
     font-size: 1.5em;
     font-weight: bold;
-    padding: 1em;
 	min-height: 5em;
+	min-width: 300px;
 }
 
 #header h1 {
@@ -80,6 +79,7 @@ a:hover {
     color: var(--fg-nav);
     text-align: center;
     z-index: 5;
+	min-width: 300px;
 }
 
 #nav a {
@@ -194,6 +194,7 @@ a:hover {
 #content {
     width: var(--content-width);
     max-width: 20cm;
+	min-width: 250px;
     display: inline-block;
     padding: 1em;
 }
