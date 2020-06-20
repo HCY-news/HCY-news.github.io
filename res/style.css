@@ -83,21 +83,24 @@ a:hover {
 }
 
 #lang-select li:first-child::after {
-    content: "▼ ";
+    content: "◀ ";
     float: right;
 }
 
-#lang-select:hover li:first-child::after {
-    content: "◀ ";
+#lang-select:focus li:first-child::after {
+    content: "▼ ";
 }
 
 #lang-select li:not(:first-child) {
     height: 0;
+    opacity: 0;
     padding-right: 1em;
 }
 
-#lang-select li:first-child:hover ~ li, #lang-select li:hover {
+#lang-select:focus li:not(first-child),
+#lang-select:focus-within li:not(first-child) {
     height: auto;
+    opacity: 1;
 }
 
 #nav {
