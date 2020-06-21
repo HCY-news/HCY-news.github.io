@@ -71,8 +71,10 @@ for(let dir of [BLOG_DIR, PAGE_DIR]) {
         page.date = date;
         page.lang = lang;
         page.langs = langs;
+        page.blog = dir === BLOG_DIR,
         page.source = file;
         page.target = target;
+        page.content = data;
         page.content = content;
 
         pages.push(page);
@@ -121,6 +123,12 @@ let makeNavs = (nav, selfTarget, lang) => {
     }
 }
 
+// Searchable contents
+let searchContent = encodeURIComponent(JSON.stringify(pages
+    .filter(p => p.blog)
+    .map(p => ({title: p.title, content: p.content}))
+));
+
 let makeHTML = page => {
     let document = new JSDOM(template).window.document;
 
@@ -130,15 +138,23 @@ let makeHTML = page => {
     document.getElementById('content').innerHTML = page.content;
 
     // Language list
-    document.getElementById('lang-select').innerHTML =
-        `<li>${langName[page.lang] || page.lang}</li>` +
-        page.langs.map(lang => lang && lang !== page.lang && `
-            <li>
-                <a href="${page.name}.${lang}.html"}>
-                    ${langName[lang] || lang}
-                </a>
-            </li>
-        ` || '').reduce((a,c) => a+c, '');
+    if(page.lang) {
+        document.getElementById('lang-select').innerHTML =
+            `<li>${langName[page.lang] || page.lang}</li>` +
+            page.langs.map(lang => lang && lang !== page.lang && `
+                <li>
+                    <a href="${page.name}.${lang}.html"}>
+                        ${langName[lang] || lang}
+                    </a>
+                </li>
+            ` || '').reduce((a,c) => a+c, '');
+    }
+
+    // Search data
+    let searchTag = document.getElementById('search-data');
+    if(searchTag) {
+        searchTag.innerHTML = searchContent;
+    }
 
     // Change root of absolute paths
     document.querySelectorAll("*[href^='/']").forEach(e => {
