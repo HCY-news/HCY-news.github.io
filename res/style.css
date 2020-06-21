@@ -143,7 +143,7 @@ a:hover {
 
 #nav li {
     cursor: pointer;
-    padding 0.5em 0.2em;
+    padding: 0.5em 0.2em;
     min-width: 3em;
 }
 
