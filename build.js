@@ -4,9 +4,9 @@ var glob = require('glob');
 
 var {JSDOM} = require('jsdom');
 var showdown = require('showdown');
-//require('showdown-highlightjs-extension');
 
-const READ_DIR = './blog';
+const BLOG_DIR = './blog';
+const PAGE_DIR = './pages';
 const WRITE_DIR = './dist';
 const TEMPLATE = './template.html';
 const BLOG_ROOT = process.env.BLOG_ROOT || '';
@@ -26,51 +26,59 @@ let converter = new showdown.Converter({
     parseImgDimensions: true,
     openLinksInNewWindow: true,
     tables: true,
-    //extensions: ['highlightjs']
 });
 
 let template = fs.readFileSync(TEMPLATE, 'utf-8');
 let tempStat = fs.statSync(TEMPLATE);
 let progStat = fs.statSync(process.argv[1]);
 
-let files = glob.sync(path.join(READ_DIR, '**/*.md'));
 let pageNavs = {}, pages = [];
 
 // Blog posts
-for(let file of files) {
+for(let dir of [BLOG_DIR, PAGE_DIR]) {
+    let files = glob.sync(path.join(dir, '**/*.{md,html}'));
+    for(let file of files) {
 
-    let data = fs.readFileSync(file, 'utf-8');
-    let rel = path.relative(READ_DIR, file);
-    let target = rel.replace(/\.md$/, '.html');
-    let navs = rel.split(path.sep);
+        let data = fs.readFileSync(file, 'utf-8');
+        let rel = path.relative(dir, file);
+        let target = rel.replace(/\.md$/, '.html');
+        let [_, name, _1, ext] = path.basename(file).match(/([^.]*)+(\.[^.]+)*\.([a-z]+){1}$/, '');
+        let navs = rel.split(path.sep);
 
-    let page = pageNavs;
-    for(let nav of navs) {
-        if(!page[nav]) {
-            page[nav] = {};
+        let page = {};
+        if(dir === BLOG_DIR) {
+            page = pageNavs;
+            for(let nav of navs) {
+                if(!page[nav]) {
+                    page[nav] = {};
+                }
+                page = page[nav];
+            }
         }
-        page = page[nav];
+
+        let content = data;
+        if(ext === "md")
+            content = converter.makeHtml(data)
+
+        let postDom = new JSDOM(content).window.document;
+        let title = postDom.getElementById('title')?.innerHTML;
+        let date = postDom.getElementById('date')?.innerHTML;
+
+        let getLang = file => file.match(/(\.([^.]+))*\.(md|html)$/)[2];
+        let lang = getLang(file);
+        let langs = glob.sync(file.replace(/\.[^.]+\.(md|html)$/, '.*.$1')).map(getLang);
+
+        page.title = title || path.basename(file).replace(/(\..*){0,1}\.md/, '');
+        page.name = path.basename(file).replace(/(\.[^.]+)*\.md$/, '');
+        page.date = date;
+        page.lang = lang;
+        page.langs = langs;
+        page.source = file;
+        page.target = target;
+        page.content = content;
+
+        pages.push(page);
     }
-    pages.push(page);
-
-    let content = converter.makeHtml(data)
-
-    let postDom = new JSDOM(content).window.document;
-    let title = postDom.getElementById('title')?.innerHTML;
-    let date = postDom.getElementById('date')?.innerHTML;
-
-    let getLang = file => file.match(/(\.([^.]+))*\.md$/)[2];
-    let lang = getLang(file);
-    let langs = glob.sync(file.replace(/\.[^.]+\.md$/, '.*.md')).map(getLang);
-
-    page.title = title || path.basename(file).replace(/(\..*){0,1}\.md/, '');
-    page.name = path.basename(file).replace(/(\.[^.]+)*\.md$/, '');
-    page.date = date;
-    page.lang = lang;
-    page.langs = langs;
-    page.source = file;
-    page.target = target;
-    page.content = content;
 }
 
 // Navigation list
