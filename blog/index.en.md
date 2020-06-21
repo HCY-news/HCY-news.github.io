@@ -1,4 +1,6 @@
 # Bio {title}
+![background](https://s1.ax1x.com/2020/06/20/NlpIi9.jpg =100%x*)
+
 One of the most influential artists in China, Hua Chenyu draws you into his world of music.
 
 In his arsenal are avant-garde compositions, striking and entrancing performances, and all-encompassing philosophical attitudes towards all things. Music lovers from around the world clamor to fill the seats by the tens of thousands at his signature Mars Concerts as he cuts a blazingpath through the dense fog of the tortuous music market.
@@ -17,7 +19,27 @@ In Hua Chenyu's world of music, you shall feel his feelings: the romantic, pure,
 
 你可以在他的音乐世界里感受浪漫的，纯净的，宏大的，圣洁的，扭曲的，疯狂的，黑暗的等种种各异却毫无例外都洋溢着爱与美的一切情感。
 
+<div id="disqus_thread"></div>
+<script>
 
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://huachenyu-news.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
 
 
 
