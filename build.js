@@ -42,7 +42,7 @@ for(let dir of [BLOG_DIR, PAGE_DIR]) {
         let data = fs.readFileSync(file, 'utf-8');
         let rel = path.relative(dir, file);
         let target = rel.replace(/\.md$/, '.html');
-        let [_, name, _1, ext] = path.basename(file).match(/([^.]*)+(\.[^.]+)*\.([a-z]+){1}$/, '');
+        let [_, name, _1, lang, ext] = path.basename(file).match(/^(.*?)(\.([^.]+))?\.([a-z]+){1}$/, '');
         let navs = rel.split(path.sep);
 
         let page = {};
@@ -64,12 +64,10 @@ for(let dir of [BLOG_DIR, PAGE_DIR]) {
         let title = postDom.getElementById('title')?.innerHTML;
         let date = postDom.getElementById('date')?.innerHTML;
 
-        let getLang = file => file.match(/(\.([^.]+))*\.(md|html)$/)[2];
-        let lang = getLang(file);
-        let langs = glob.sync(file.replace(/\.[^.]+\.(md|html)$/, '.*.$1')).map(getLang);
+        let langs = glob.sync(file.replace(/\.[^.]+\.(md|html)$/, '.*.$1')).map(file => file.match(/(\.([^.]+))*\.(md|html)$/)[2]);
 
         page.title = title || path.basename(file).replace(/(\..*){0,1}\.md/, '');
-        page.name = path.basename(file).replace(/(\.[^.]+)*\.md$/, '');
+        page.name = name;
         page.date = date;
         page.lang = lang;
         page.langs = langs;
