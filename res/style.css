@@ -412,6 +412,7 @@ div:focus, ul:focus, li:focus {
     object-fit: cover;
     object-position: top;
     margin: 0;
+    background-color: var(--bg-body);
 }
 
 #content img[alt="left"] {
