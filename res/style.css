@@ -49,6 +49,10 @@ a:hover {
     color: var(--fg-hover);
 }
 
+form {
+    margin: 0;
+}
+
 #header {
     color: var(--fg-header);
     font-size: 1.5em;
@@ -82,6 +86,10 @@ a:hover {
 	cursor: pointer;
 }
 
+#lang-select:empty {
+    display: none;
+}
+
 #lang-select, #lang-select a {
     color: var(--fg-nav) !important;
 }
@@ -111,14 +119,14 @@ a:hover {
     opacity: 1;
 }
 
-#nav {
+.nav {
     background-color: var(--bg-nav);
     position: sticky;
     top: 0;
     white-space: nowrap;
     color: var(--fg-nav);
     text-align: center;
-    z-index: 5;
+    z-index: 1;
 	width: var(--content-width);
 	min-width: var(--content-min);
 	max-width: var(--content-max);
@@ -127,75 +135,89 @@ a:hover {
 	border-radius: 20px 0 0;
 }
 
-#nav a {
+.nav a {
     text-decoration: none;
 }
 
-#nav a:hover {
+.nav a:hover {
     color: var(--fg-nav);
 }
 
-#nav ul {
+#nav-list {
+    display: inline-block;
+}
+
+#nav-list ul {
     list-style: none;
     padding-left: 0;
 	display: inline-block;
 }
 
-#nav li {
+#nav-list li {
     cursor: pointer;
     padding: 0.5em 0.2em;
     min-width: 3em;
 }
 
-#nav li:hover, #nav li:focus {
+#nav-list li:hover, #nav-list li:focus {
     background-color: var(--bg-highlight);
 }
 
-#nav li {
+#nav-list li {
     text-align: left;
     padding: 0.5em;
 }
 
-#nav > ul {
+#nav-list > ul {
     margin: 0;
 }
 
-#nav > ul > li {
+#nav-list > ul > li {
     display: inline-block;
     position: relative;
     line-height: 1em;
 }
 
-#nav > ul ul {
+#nav-list > ul ul {
     position: absolute;
     display: none;
     background-color: var(--bg-nav2);
 }
 
-#nav li:hover > ul, #nav li:focus > ul {
+#nav-list li:hover > ul, #nav-list li:focus > ul {
     display: block;
 }
 
-#nav > ul > li > ul {
+#nav-list > ul > li > ul {
     top: 2em;
     left: 0;
 }
 
-#nav > ul > li > ul ul {
+#nav-list > ul > li > ul ul {
     top: 0;
     right: 0;
     transform: translate(100%, 0);
 }
 
 @media only screen and (max-width: 1020px) {
-    #nav {
-        position: static;
-        white-space: normal;
+    .nav {
+        position: relative;
     }
 
-    #nav ul {
+    #nav-list {
+        white-space: normal;
+        display: block;
+    }
+
+    #nav-list ul {
         position: static !important;
         transform: none !important;
+    }
+
+    #nav-list li {
+        width: 100%;
+        padding: 0;
+        overflow-x: hidden;
     }
 
     .nav-name {
@@ -203,10 +225,8 @@ a:hover {
         padding: 0.5em;
     }
 
-    #nav li {
-        width: 100%;
-        padding: 0;
-        overflow-x: hidden;
+    .search-box {
+        height: 2em !important;
     }
 }
 
@@ -220,9 +240,82 @@ a:hover {
     color: var(--fg-nav-current);
 }
 
-#nav-logo {
+.nav-logo {
 	height: 2em;
 	vertical-align: middle;
+}
+
+.search-box {
+    position: absolute;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+    transition: width 0.5s;
+    display: flex;
+    height: 100%;
+    width: 40px;
+    background-color: var(--bg-nav2);
+}
+
+.search-box:focus-within {
+    width: 100%;
+    border-radius: 20px 0 0;
+}
+
+.search-box > * {
+    display: inline;
+    background: transparent;
+}
+
+.search-box input[type="search"] {
+    border: none;
+    border-bottom: var(--fg-nav) solid 1px;
+    flex-grow: 1;
+    padding-left: 20px;
+    z-index: 4;
+    opacity: 0;
+}
+
+.search-box:focus-within input[type="search"] {
+    opacity: 1;
+    z-index: 2;
+}
+
+.search-box button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 40px;
+    padding: 0;
+    height: 100%;
+    border: none;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.search-result {
+    position: relative;
+    min-height: 6em;
+    max-height: 20em;
+    overflow: hidden;
+    cursor: pointer;
+    padding: 1em;
+    border: transparent solid 2px;
+    border-radius: 20px 0 20px
+}
+
+.search-result::after {
+    content: "";
+    height: 3em;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(transparent, white);
+}
+
+.search-result:hover {
+    border-color: var(--bg-nav);
 }
 
 #footer {
@@ -257,6 +350,7 @@ a:hover {
     display: inline-block;
     padding: 1em;
     box-shadow: 3px 10px 10px 5px;
+    min-height: 50vh;
 }
 
 #content {

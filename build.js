@@ -74,7 +74,6 @@ for(let dir of [BLOG_DIR, PAGE_DIR]) {
         page.blog = dir === BLOG_DIR,
         page.source = file;
         page.target = target;
-        page.content = data;
         page.content = content;
 
         pages.push(page);
@@ -126,7 +125,11 @@ let makeNavs = (nav, selfTarget, lang) => {
 // Searchable contents
 let searchContent = encodeURIComponent(JSON.stringify(pages
     .filter(p => p.blog)
-    .map(p => ({title: p.title, content: p.content}))
+    .map(p => ({
+        title: p.title,
+        target: BLOG_ROOT + p.target,
+        content: p.content
+    }))
 ));
 
 let makeHTML = page => {
@@ -134,7 +137,7 @@ let makeHTML = page => {
 
     // Contents
     document.getElementById('title').innerHTML = page.title;
-    document.getElementById('nav').innerHTML += makeNavs(pageNavs, page.target, page.lang);
+    document.getElementById('nav-list').innerHTML = makeNavs(pageNavs, page.target, page.lang);
     document.getElementById('content').innerHTML = page.content;
 
     // Language list
@@ -157,12 +160,11 @@ let makeHTML = page => {
     }
 
     // Change root of absolute paths
-    document.querySelectorAll("*[href^='/']").forEach(e => {
-        e.href = BLOG_ROOT + e.href;
-    });
-    document.querySelectorAll("*[src^='/']").forEach(e => {
-        e.src = BLOG_ROOT + e.src;
-    });
+    for(let field of ['href', 'src', 'action']) {
+        document.querySelectorAll(`*[${field}^='/']`).forEach(e => {
+            e[field] = BLOG_ROOT + e[field];
+        });
+    }
 
     return document.documentElement.outerHTML;
 };
