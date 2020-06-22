@@ -1,14 +1,33 @@
-(function() {
+window.onload = function() {
+    var lang = window.language || 'en';
+
     var searchData = JSON.parse(decodeURIComponent(document.getElementById('search-data').innerHTML));
-    var params = {}; // https://stackoverflow.com/a/21152762/6023997
-    if(location.search) location.search.substr(1).split("&").forEach(function(item) {var s = item.split("="), k = s[0], v = s[1] && decodeURIComponent(s[1]); params[k] = v});
+    var searchQuery = "";
+
+    if(location.search) {
+        var params = location.search.substr(1).split("&");
+        for(var i in params) {
+            var item = params[i];
+            var s = item.split("=");
+            if(s[0] === 'q') {
+                searchQuery = s[1] && decodeURIComponent(s[1]);
+                sessionStorage['query'] = searchQuery;
+                break;
+            }
+        }
+    } else if(sessionStorage['query']) {
+        searchQuery = sessionStorage['query']
+    }
 
     var fuse = new Fuse(searchData, {
         keys: ['title', 'content'],
         threshold: 0.5,
     });
 
-    var results = params.q ? fuse.search(params.q) : [];
+    var results = fuse.search(searchQuery);
+    results = results.filter(function(r) {
+        return r.item.lang === lang;
+    });
 
     var html = '';
 
@@ -21,10 +40,13 @@
             node.parentElement.removeChild(node);
         });
 
-        html += '<div class="search-result" onclick="window.location.href=&quot;' + result.item.target + '&quot;, &quot;_blank&quot;">';
+        html += '<div class="search-content" onclick="window.location.href=&quot;' + result.item.target + '&quot;, &quot;_blank&quot;">';
         html += dom.outerHTML;
         html += '</div>';
     }
 
-    document.getElementById('content').innerHTML = html;
-})();
+    document.getElementById('search-query').innerText = searchQuery;
+    document.querySelector('.search-box input[type="search"]').value = searchQuery;
+    document.getElementById('search-result').innerHTML = html;
+    document.getElementById('search-count').innerText = results.length;
+};

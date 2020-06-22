@@ -301,7 +301,7 @@ form {
     z-index: 3;
 }
 
-.search-result {
+.search-content {
     position: relative;
     min-height: 6em;
     max-height: 20em;
@@ -312,7 +312,7 @@ form {
     border-radius: 20px 0 20px
 }
 
-.search-result::after {
+.search-content::after {
     content: "";
     height: 3em;
     width: 100%;
@@ -322,8 +322,12 @@ form {
     background-image: linear-gradient(transparent, white);
 }
 
-.search-result:hover {
+.search-content:hover {
     border-color: var(--bg-nav);
+}
+
+.search-content h1 {
+    font-size: 1.5em !important;
 }
 
 #footer {

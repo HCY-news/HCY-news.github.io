@@ -127,6 +127,7 @@ let searchContent = encodeURIComponent(JSON.stringify(pages
     .filter(p => p.blog)
     .map(p => ({
         title: p.title,
+        lang: p.lang,
         target: BLOG_ROOT + p.target,
         content: p.content
     }))
