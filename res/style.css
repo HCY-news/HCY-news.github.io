@@ -184,7 +184,8 @@ form {
     background-color: var(--bg-nav2);
 }
 
-#nav-list li:hover > ul, #nav-list li:focus > ul {
+#nav-list li:focus > ul,
+#nav-list li:focus-within > ul {
     display: block;
 }
 
@@ -199,6 +200,12 @@ form {
     transform: translate(100%, 0);
 }
 
+@media only screen and (min-width: 1020px) {
+    #nav-list li:hover > ul {
+        display: block;
+    }
+}
+
 @media only screen and (max-width: 1020px) {
     .nav {
         position: relative;
@@ -210,6 +217,7 @@ form {
     }
 
     #nav-list ul {
+        width: 100%;
         position: static !important;
         transform: none !important;
     }
