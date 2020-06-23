@@ -163,7 +163,9 @@ let makeHTML = page => {
     // Change root of absolute paths
     for(let field of ['href', 'src', 'action']) {
         document.querySelectorAll(`*[${field}^='/']`).forEach(e => {
-            e[field] = BLOG_ROOT + e[field];
+            if(!e[field].startsWith('//')) {
+                e[field] = BLOG_ROOT + e[field];
+            }
         });
     }
 
