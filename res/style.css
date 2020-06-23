@@ -67,6 +67,7 @@ img[alt~="background"] {
     object-fit: cover;
     object-position: top;
     margin: 0;
+    background-color: var(--bg-body);
 }
 
 #content img[alt~="left"] {

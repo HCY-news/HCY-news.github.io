@@ -4,8 +4,8 @@
   "description": "My blog",
   "scripts": {
     "clean": "rm -r dist/",
-    "build": "node build.js && cp -ruv res/* dist/",
-    "rebuild": "node build.js rebuild && cp -ruv res/* dist/",
+    "build": "node build.js && cp -ruvL res/* dist/",
+    "rebuild": "node build.js rebuild && cp -ruvL res/* dist/",
     "watch": "nodemon -e \"md css html js\" -w . -i dist -x \"npm run build\""
   },
   "author": "Rio6",
