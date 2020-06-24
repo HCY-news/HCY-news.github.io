@@ -1,6 +1,8 @@
 # Hua Chenyu {title}
 # 華晨宇
-![background](https://s1.ax1x.com/2020/06/20/NlpIi9.jpg =100%x*)
+<div class="background" markdown="1">
+![](https://s1.ax1x.com/2020/06/20/NlpIi9.jpg =100%x*)
+</div>
 
 
 One of the most influential artists in China, Hua Chenyu draws you into his world of music.

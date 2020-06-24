@@ -57,7 +57,7 @@ div:focus, ul:focus, li:focus {
     outline: none;
 }
 
-img[alt~="background"] {
+.background img {
     position: fixed;
     top: 0;
     left: 0;
@@ -70,24 +70,55 @@ img[alt~="background"] {
     background-color: var(--bg-body);
 }
 
-#content img[alt~="left"] {
+.left {
     float: left;
     margin: 0.5em;
 }
 
-#content img[alt~="right"] {
+.right {
     float: right;
     margin: 0.5em;
 }
 
-#content img[alt~="center"] {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+.highlight {
+    background-color: var(--bg-highlight);
 }
 
-#content img[alt~="shadow"] {
+.highlight * {
+    color: var(--fg-highlight) !important;
+}
+
+.center {
+    text-align: center;
+}
+
+.shadow img {
     box-shadow: 4px 4px 8px 1px;
+}
+
+.justified-gallery {
+    column-count: 3;
+    column-gap: 5px;
+}
+
+.justified-gallery > p {
+    margin: 0;
+}
+
+.justified-gallery img {
+    display: block !important;
+}
+
+.thumb img:focus {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 80vw !important;
+    max-height: 80vh !important;
+    margin: auto !important;
+    outline-color: var(--border-box);
 }
 
 #header {
@@ -154,6 +185,18 @@ img[alt~="background"] {
 #lang-select:focus-within li:not(first-child) {
     height: auto;
     opacity: 1;
+}
+
+.back-to-top {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin: 5px;
+    padding: 3px;
+    background-color: var(--bg-nav);
+    color: var(--fg-nav) !important;
+    z-index: 10;
+    border-radius: 10px 0 0;
 }
 
 .nav {
@@ -431,20 +474,11 @@ img[alt~="background"] {
 
 #content img {
     display: inline-block;
-    margin: 0.5em 0;
+    margin: 2px 0;
     vertical-align: top;
     object-fit: cover;
     object-position: center;
-}
-
-#content img[alt="left"] {
-    float: left;
-    margin: 0.5em;
-}
-
-#content img[alt="right"] {
-    float: right;
-    margin: 0.5em;
+    max-width: 100%;
 }
 
 #content h1 {
@@ -454,11 +488,6 @@ img[alt~="background"] {
 #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
     color: var(--fg-title);
     text-align: center;
-}
-
-#content *[id^="highlight"] { /* yay more hacks */
-    color: var(--fg-highlight);
-    background-color: var(--bg-highlight);
 }
 
 #content iframe {

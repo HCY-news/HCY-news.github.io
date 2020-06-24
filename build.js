@@ -11,10 +11,17 @@ const WRITE_DIR = './dist';
 const TEMPLATE = './template.html';
 const BLOG_ROOT = process.env.BLOG_ROOT || '';
 
-const langName = {
-    en: "English",
-    'zh-TW': "繁體中文",
-    'zh-CN': "簡体中文"
+const translations = {
+    lang: {
+        en: "English",
+        'zh-TW': "繁體中文",
+        'zh-CN': "簡体中文"
+    },
+    "back-to-top": {
+        en: "Back to Top",
+        'zh-TW': "回到頂端",
+        'zh-CN': "回到顶端"
+    }
 };
 
 if(!fs.existsSync(WRITE_DIR)) {
@@ -26,6 +33,7 @@ let converter = new showdown.Converter({
     parseImgDimensions: true,
     openLinksInNewWindow: true,
     tables: true,
+    strikethrough: true,
 });
 
 let template = fs.readFileSync(TEMPLATE, 'utf-8');
@@ -128,7 +136,7 @@ let searchContent = encodeURIComponent(JSON.stringify(pages
     .map(p => ({
         title: p.title,
         lang: p.lang,
-        target: BLOG_ROOT + p.target,
+        target: path.join(BLOG_ROOT, p.target).split(path.sep).join('/'), // So it works on windows dev environment
         content: p.content
     }))
 ));
@@ -144,11 +152,11 @@ let makeHTML = page => {
     // Language list
     if(page.lang) {
         document.getElementById('lang-select').innerHTML =
-            `<li>${langName[page.lang] || page.lang}</li>` +
+            `<li>${translations.lang[page.lang] || page.lang}</li>` +
             page.langs.map(lang => lang && lang !== page.lang && `
                 <li>
                     <a href="${page.name}.${lang}.html"}>
-                        ${langName[lang] || lang}
+                        ${translations.lang[lang] || lang}
                     </a>
                 </li>
             ` || '').reduce((a,c) => a+c, '');
@@ -159,6 +167,16 @@ let makeHTML = page => {
     if(searchTag) {
         searchTag.innerHTML = searchContent;
     }
+    
+    // Make thumb images focusable
+    document.querySelectorAll('.thumb img').forEach(e => {
+        e.tabIndex = "1";
+    });
+    
+    // Translations
+    document.querySelectorAll('.back-to-top').forEach(e => {
+        e.textContent = translations['back-to-top'][page.lang] || e.textContent;
+    });
 
     // Change root of absolute paths
     for(let field of ['href', 'src', 'action']) {

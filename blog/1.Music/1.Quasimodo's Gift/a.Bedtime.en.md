@@ -1,5 +1,7 @@
 # Bedtime Story {title}
-![background](https://s1.ax1x.com/2020/06/21/N3Q1v6.jpg)
+<div class="background" markdown="1">
+![](https://s1.ax1x.com/2020/06/21/N3Q1v6.jpg)
+</div>
 
 版权公司投来的一批歌里，听到这首小样，娓娓道来的倾诉性，不是一首多大的歌，却很动人。小样里就伴着一把吉他的吟唱，soul的感觉。曲作者Ronald 是新作者，在英国呆了两年。受到90’s流行，节奏蓝调，灵魂乐的歌手以及词曲作者的影响，渴望“将感觉与情感融入歌曲中”，立志变成有感召力的词曲人。
 
