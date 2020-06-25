@@ -1,7 +1,7 @@
 # Hua Chenyu {title}
 # 華晨宇
 <div class="background" markdown="1">
-![](https://s1.ax1x.com/2020/06/20/NlpIi9.jpg =100%x*)
+![](https://s1.ax1x.com/2020/06/25/N0fi9A.jpg)
 </div>
 
 
