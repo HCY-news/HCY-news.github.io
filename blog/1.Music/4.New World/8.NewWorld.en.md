@@ -1,0 +1,117 @@
+# My Skateboard Shoes 2016 {title}
+# 我的滑板鞋 2016
+<div class="background" markdown="1">
+![](https://s1.ax1x.com/2020/06/22/NGGe9e.jpg)
+</div>
+
+在《天籁之战第一季》第三期节目中，华晨宇被素人指定改编《我的滑板鞋》。华晨宇研究了歌词，觉得非常适合改变成说唱，希望把这首歌写成诉说感很强的歌。因为歌曲本身说唱的节奏是非常个人化的节奏，所以华晨宇大部分的时间花在改编节奏上，用了很长的时间想这首歌的框架。华晨宇把歌曲原有的节奏拆了再重新拼装起来，花了很长的时间；但是录和声的时间很短，几分钟就搞定了。歌曲加入了许多自身喜欢的摇滚及Rap元素，且在24小时内改编完成
+
+---------------------------------
+
+####《My Skateboard Shoes 2016》The Next Show 20161101
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9KuwVAq8-lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+####《My Skateboard Shoes 2016》2016 Tmall 11/11 Shopping Festival
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1-BPn3Pjl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Lyrics:
+<div class="box">
+《My Skateboard Shoes 2016》
+      我的滑板鞋 2016  
+   
+Composers: Hua Chenyu, Joseeh Punmanlon
+Lyricists: Joseeh Punmanlon, Hua Chenyu
+Arranger: Bernard Zheng
+
+There are things that I’ve forgotten
+But I still remember
+that my mom asked me one night
+Why are you sad today
+I said in my imagination there was a pair of skateboard shoes
+Unique, most fashionable, and perfect for dancing
+
+I searched through every street in the city
+Yet I could not find it
+She said I would find it one day
+and time will give me an answer
+
+I went out searching on Sunday once more
+Yet I still couldn’t find it
+
+One month later I went to another city
+People here call it the City of Glamour
+
+Time flew by and the night was about to fall
+I thought it was time to go
+Just when I was about to leave
+I passed by a specialty store
+Sitting there were the skateboard shoes
+that I wanted
+Sitting there were the skateboard shoes
+that I wanted
+
+My skateboard shoes were the most fashionable, the most fashionable
+
+On the way home, I couldn't help
+Rubbing rubbing
+Rubbing my feet on the glossy floor
+Rub it
+Rubbing my feet on the glossy floor
+Rub it
+
+One step two step, I rub it
+Step by step like the steps of the devil
+Rubbing my feet on the glossy floor
+One step two step, I rub it
+
+Step by step like the steps of the devil
+Rubbing my feet on the glossy floor
+I see my shadow under the moonlight
+Sometimes far sometimes near
+I felt a power driving my steps
+With my skateboard shoes,
+even the night won't scare me
+With my skateboard shoes,
+even the night won't scare me
+
+This was a beautiful moment in my life
+I wanted to finish my favorite dance
+Under this beautiful moonlight
+On this beautiful street
+I told myself that it was real
+It was not a dream
+I told myself it was real and not a dream
+Rubbing rubbing rubbing
+Rubbing my feet on the glossy floor, rub it
+Rubbing my feet on the glossy floor, rub it
+Rubbing my feet on the glossy floor
+
+One step two step, I rub it
+Step by step like the steps of the devil
+Rubbing my feet on the glossy floor
+One step two step, I rub it
+Step by step like the steps of the devil
+Rubbing my feet on the glossy floor
+One step two step, I rub it
+
+Step by step like the steps of the devil
+Rubbing my feet on the glossy floor
+I see my shadow under the moonlight
+Sometimes far and sometimes near
+I felt a power driving my steps
+With my skateboard shoes,
+even the night won't scare me
+With my skateboard shoes,
+even the night won't scare me
+
+This was a beautiful moment in my life
+I wanted to finish my favorite dance
+Under this beautiful moonlight
+On this beautiful street
+I told myself that it was real and not a dream
+I told myself that it was real and not a dream
+
+Translated by Hua CHenyu English Subs
+</div>

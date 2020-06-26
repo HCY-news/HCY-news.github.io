@@ -4,6 +4,7 @@
 ![](https://s1.ax1x.com/2020/06/25/N0fi9A.jpg)
 </div>
 
+Welcome to the Martian Family! We are thrilled to have you on board and can’t wait for you to begin experiencing the magic power of Hua Chenyu’s innovative performances!
 
 One of the most influential artists in China, Hua Chenyu draws you into his world of music.
 
