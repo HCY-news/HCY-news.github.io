@@ -150,7 +150,7 @@ let makeHTML = page => {
     document.getElementById('content').innerHTML = page.content;
 
     // Language list
-    if(page.lang) {
+    if(page.lang && document.getElementById('lang-select')) {
         document.getElementById('lang-select').innerHTML =
             `<li>${translations.lang[page.lang] || page.lang}</li>` +
             page.langs.map(lang => lang && lang !== page.lang && `

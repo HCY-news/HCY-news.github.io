@@ -6,15 +6,13 @@
 
 Welcome to the Martian Family! We are thrilled to have you on board and can’t wait for you to begin experiencing the magic power of Hua Chenyu’s innovative performances!
 
-One of the most influential artists in China, Hua Chenyu draws you into his world of music.
+Hua Chenyu is one of the most amazing and influential artists in China today!  His highly creative music draws you into his philosophical and surreal world that ignites one’s imagination and stimulates their senses.
 
-In his arsenal are avant-garde compositions, striking and entrancing performances, and all-encompassing philosophical attitudes towards all things. Music lovers from around the world clamor to fill the seats by the tens of thousands at his signature Mars Concerts as he cuts a blazingpath through the dense fog of the tortuous music market.
+His ever-growing collection of entrancing and entertaining music is rooted in philosophical concepts from many cultures around the world.  Quasimodo, in his loneliness, hears the mourning eerie sounds of the giant whale.  Tears fill the eyes of an alienated rebel as he gazes on the ephemeral mayfly.  Sorrow is felt by the weary matador who has been pierced by the horns of an angry bull with blood dripping down his hands.  Songs of Mars, space and aliens cause music lovers from around the world to flock to his concerts and fill tens of thousands of his seats every time.
 
-In this world of music, everything tilts into the unusual. Quasimodo, in his loneliness, hears the mourning wail of the whales. Tears fill the eyes of the alienated rebel as he gazes on the ephemeral mayfly. The weary matador with bloodied hands has his torso pierced by the horns of the bull. The maddened dance merrily at the razor's edge between consciousness and dream land… Here, you can witness the amorphous nature of life brought into reality with ardent passion, and its mystery tenderly unraveled with overflowing compassion for its very existence. And this is only the bare bones of Hua Hua's wonderful musical world!
+In this new genre of Hua Chenyu music that is sweeping the world everything tilts into the unusual.  The audience is taken on a dreamy journey that allows them to transcend reality and move into a special reality.  His music explores the full spectrum of human emotions ranging from ardent passion to wonder and sorrow.  The audience can become the giant deer that holds the blue planet in its arms or the god tree that stands observing the demise of all creatures on planet earth.  His music is entrancing, full of emotion, and spellbinding.
 
-You can transcend the limits of the individual self to experience the mysticism of a world majestic in its grandeur: Become the giant deer that holds the blue planet in its embrace, the god tree that stands spectator to the collapse of all creatures on Earth, or even the deity that guides blooming innocence into broad daylight.
-
-In Hua Chenyu's world of music, you shall feel his feelings: the romantic, pure, epic, holy, depraved, insane, dark emotions in their sublimity, indiscriminately overflowing with beauty and love.
+In Hua Chenyu’s world of music, you will feel his feelings as he takes you on a journey within your own mind:  romance, purity, holiness, depravity, insanity, darkness, beauty, and love.
 
 欢迎走进华晨宇的音乐世界，他是当代中国最具关注度的艺术家之一。
 

@@ -1,59 +1,68 @@
-# Why nobody fight {title}
-![](https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/2566840/535987_382071.jpg =100%x*)
-
-## Lyrics:
-```
-<< Why nobody fights >>
-
-Composer: Hua Chenyu
-Lyricist: Hua Chenyu
-Arranger: Bernard Zheng
-
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-Why why nobody fights
-Why nobody fights
-Why nobody fights
-Why Why nobody fights
-Why nobody fights
-Why nobody fights
-```
-
-At the end of June 2014, the album "Quasimodo's Gift" was ended with the songs choosing. Hua Chenyu wrote "Why nobody fights" after watching a soccer game in Europe. Hua Chenyu wanted to dedicate the song to the audience to encourage the listener to be the true self.
-
+# Do It While You Are Still Young {title}
+# 华晨宇 趁你还年轻
+<div class="background" markdown="1">
+![](https://s1.ax1x.com/2020/06/27/NywE36.jpg)
+</div>
  
+《Do It While You Are Still Young》is a very popular old song in the late eighties. Hua Hua sang this old song in 2013 for a movie called "Up In the Winds"
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKK5a2xeuPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Although the song has only one lyrics, each sentence requires different expressions. So the recording took four days. The producer of the song, Bernard Zheng, initially asked his friends to record the chorus. After rough-cutting, Hua felt it's too perfect and decided to find someone else. In order to create a mysterious and empty group voice feeling, many people are needed. Hua Chenyu recommended to invite his fans, so he selected 100 fans to participate in the recording of the big orchestra recording studio, completed the recording in two hours.
+#### Lyrics:
+<div class="box">
+《Do It While You Are Still Young》
+       趁你还年轻
+
+Theme Song of "Up in the Wind"
+Lyricist and Composer: Hou Dejian
+Singer: Hua Chenyu
+
+Do it while you still don't need to mull things over and over
+Do it while you still don't understand the reason for sighing
+Do it while you haven't learned to pretentiously prove yourself
+
+You are whatever you think of yourself
+Maybe you don't believe it
+Maybe you have never noticed
+how many people are envious of you
+Envious of your youth
+
+This world belongs to you
+Just because you are young
+You have to grasp your chances
+It will not be easy to come back
+
+Do you know why some people are envious of you?
+It's just because once they were also young
+Do you know why some people are jealous of you?
+It's just because they couldn't grasp their chances
+
+Do it while you still don't need to mull things over and over
+Do it while you still don't understand the reason for sighing
+Do it while you haven't learned to pretentiously prove yourself
+
+You are whatever you think of yourself
+Maybe you don't believe it
+Maybe you have never noticed
+how many people are envious of you
+Envious of your youth
+
+This world belongs to you
+Just because you are young
+You have to grasp your chances
+It will not be easy to come back
+
+Do you know why some people are envious of you?
+It's just because once they were also young
+Do you know why some people are envious of you?
+It's just because they couldn't grasp their chances
+
+Do it while you still don't need to mull things over and over
+Do it while you still don't understand the reason for sighing
+Do it while you haven't learned to pretentiously prove yourself
+
+You are whatever you think of yourself
+
+Translated by Hua Chenyu English Subs
+
+
