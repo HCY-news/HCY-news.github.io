@@ -1,117 +1,183 @@
-# My Skateboard Shoes 2016 {title}
-# 我的滑板鞋 2016
+# Qi-Tian/Equal to Heaven {title}
+# 齐天
 <div class="background" markdown="1">
-![](https://s1.ax1x.com/2020/06/22/NGGe9e.jpg)
+![](https://s1.ax1x.com/2020/06/28/Ng30rd.jpg)
 </div>
 
-在《天籁之战第一季》第三期节目中，华晨宇被素人指定改编《我的滑板鞋》。华晨宇研究了歌词，觉得非常适合改变成说唱，希望把这首歌写成诉说感很强的歌。因为歌曲本身说唱的节奏是非常个人化的节奏，所以华晨宇大部分的时间花在改编节奏上，用了很长的时间想这首歌的框架。华晨宇把歌曲原有的节奏拆了再重新拼装起来，花了很长的时间；但是录和声的时间很短，几分钟就搞定了。歌曲加入了许多自身喜欢的摇滚及Rap元素，且在24小时内改编完成
+<div class="center shadow" markdown="1">
+![](https://s1.ax1x.com/2020/06/28/Ng32RS.jpg =60%x*)
+</div>
+
+Theme Song of the Movie Wu Kong
+
+华晨宇在看完影片后，发现孙悟空在电影里不是传统中“大闹天宫”的无敌形象，反而是比较悲剧色彩的人物，失去了所爱之人，并且在不得已的情况下大闹天宫，最终放下自己，戴紧箍咒陪唐僧取经。
+
+他内心情绪起伏，决定用悲情与燃情融合的手法来写这首歌，在家闭关数日，写出了这首中国风和rap元素兼具的《齐天》。
+
+华晨宇在写出了歌曲小样架构后，交由郑楠为歌曲的编曲制作。郑楠邀请了爱乐乐团为该曲录制大管弦乐，还邀请了常成老师在RAP里念诵了六字真言。该曲的全部和声则来自于华晨宇，包括歌曲结束前的高音演唱
 
 ---------------------------------
 
-####《My Skateboard Shoes 2016》The Next Show 20161101
+####《Qi-Tian/Equal to Heaven》Official MV
+#### 《齐天》MV 電影悟空傳主題曲
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9KuwVAq8-lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tzcl7vuQt3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-####《My Skateboard Shoes 2016》2016 Tmall 11/11 Shopping Festival
+####《Qi-Tian/Equal to Heaven》Mars Concert 20171014
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h1-BPn3Pjl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/539746f4-bc43-4729-91f7-f2eea0bd123d" frameborder="0" allowfullscreen></iframe>
+
+####《Qi-Tian/Equal to Heaven》Singer 2018
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MkgexVQ-JHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+####《Qi-Tian/Equal to Heaven》Come Sing With Me S3 EP8
+#### 华晨宇《齐天》-《我想和你唱3》
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ynaqmqDlQzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+####《Qi-Tian/Equal to Heaven》Hunan TV New Year Countdown Concert 2018
+#### 湖南卫视跨年演唱会 华晨宇《齐天》
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rn2SU6DRP2Y?start=277" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+####《Qi-Tian/Equal to Heaven》Zhejiang TV 20190713
+#### 浙江衛視年中盛典《齐天》
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2qu8FdrbwP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Lyrics:
 <div class="box">
-《My Skateboard Shoes 2016》
-      我的滑板鞋 2016  
+《Qi-Tian/Equal to Heaven》
+          齐天  
    
-Composers: Hua Chenyu, Joseeh Punmanlon
-Lyricists: Joseeh Punmanlon, Hua Chenyu
+Theme Song of the Movie Wu Kong
+Composer: Hua Chenyu
+Lyricists: Ding Yanxue, Jin Hezai, Fang Hao
 Arranger: Bernard Zheng
 
-There are things that I’ve forgotten
-But I still remember
-that my mom asked me one night
-Why are you sad today
-I said in my imagination there was a pair of skateboard shoes
-Unique, most fashionable, and perfect for dancing
+Sun and moon are recurring
+Who has commanded Qi Tian
+To let go of gratitude and grudges?
 
-I searched through every street in the city
-Yet I could not find it
-She said I would find it one day
-and time will give me an answer
+Love and hate string together
+I cannot escape from the fingertips
+Fingertips (of Buddha)
+under the vast sky
 
-I went out searching on Sunday once more
-Yet I still couldn’t find it
+May I ask, what are life, death, or karma?
+Wherefore was I born?
+Why have you brought me forth
+Yet will not answer my doubts?
 
-One month later I went to another city
-People here call it the City of Glamour
+You said: "Become a Buddha at this instant"
+If I become a Buddha
+Will there be no demons in this world?
+Who can tell me?
 
-Time flew by and the night was about to fall
-I thought it was time to go
-Just when I was about to leave
-I passed by a specialty store
-Sitting there were the skateboard shoes
-that I wanted
-Sitting there were the skateboard shoes
-that I wanted
+Look, the sandstorm blocked the sun
+and enveloped the world in dust
 
-My skateboard shoes were the most fashionable, the most fashionable
+The moon above Heaven's Palace
+is no different from that above Mount Huaguo
 
-On the way home, I couldn't help
-Rubbing rubbing
-Rubbing my feet on the glossy floor
-Rub it
-Rubbing my feet on the glossy floor
-Rub it
+I won my first battle with glory and fame
+Yet you tried to catch me with inescapable nets
 
-One step two step, I rub it
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-One step two step, I rub it
+You won without honor
+I could not dodge hidden arrows
 
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-I see my shadow under the moonlight
-Sometimes far sometimes near
-I felt a power driving my steps
-With my skateboard shoes,
-even the night won't scare me
-With my skateboard shoes,
-even the night won't scare me
+So many daybreaks have slipped away unnoticed
 
-This was a beautiful moment in my life
-I wanted to finish my favorite dance
-Under this beautiful moonlight
-On this beautiful street
-I told myself that it was real
-It was not a dream
-I told myself it was real and not a dream
-Rubbing rubbing rubbing
-Rubbing my feet on the glossy floor, rub it
-Rubbing my feet on the glossy floor, rub it
-Rubbing my feet on the glossy floor
+The ending and truth remain elusive
+as I tread forward
 
-One step two step, I rub it
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-One step two step, I rub it
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-One step two step, I rub it
+Fragrance of peach blossoms
+persists in my dreams
 
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-I see my shadow under the moonlight
-Sometimes far and sometimes near
-I felt a power driving my steps
-With my skateboard shoes,
-even the night won't scare me
-With my skateboard shoes,
-even the night won't scare me
+Yet it can not resist your trickery
 
-This was a beautiful moment in my life
-I wanted to finish my favorite dance
-Under this beautiful moonlight
-On this beautiful street
-I told myself that it was real and not a dream
-I told myself that it was real and not a dream
+The truth of black and white
+is waiting for the daybreak
 
-Translated by Hua CHenyu English Subs
+Can it directly write down
+your natural talent (for trickery)?
+
+Daggers and blades were out of sheath
+Dragons and phoenixes collapsed as kylins fell
+
+Flight of jade steps shattered
+at the swing of my golden cudgel (Qi Tian's weapon)
+
+There is no chance for regret
+Over a thousand years and in this universe
+Only my golden cudgel is left
+
+Why have my victories ended in loneliness?
+Whose name was whispered
+by the wind in my dreams
+
+I said, "Excuse me,"
+but there is no way I would admit defeat
+
+Treading across the Southern Heaven
+I sware upon mountains and rivers
+
+Till the end of the world
+Who was young and wild?
+
+Who could give me a belief?
+Spring had not ended
+
+The moon was shining
+I wanted to bother you
+
+Unfortunately, the wind blew early
+I missed my chance
+
+The dawn was just breaking
+The constricting headband had not been forged
+I can still smile
+
+Love, hate, worries and fear fogged my eyes
+
+Thunders of thousands of soldiers shook the world
+But they still could not confine me
+
+Millions of heavenly warriors advanced and spread
+Don't even think about my surrender
+
+You cannot decide the victor of this battle
+The Heaven's Palace was turned upside down with one swing of my cudgel
+
+To hell with fate
+I choose my own destiny
+
+I want these mountains to move away from my inroads
+I want these waters to part to make way for my returning path
+I want heaven and earth to yield to me
+
+The world shatters at the tip of my cudgel
+You picked up a flower with a smile
+The sky was filled with dusk clouds
+
+I once cried, laughed, loved, hated,
+obsessed and went mad
+
+What is left that I can not let go of?
+
+I want these absurd rules
+to end as a farce
+
+One day, under heaven and earth
+The stone heart (of Qi Tian) was caught in a paradox
+
+The so-called "nothingness" is the exile at
+where we came from
+
+Tide rises and falls
+It occurs that "nothingness"
+is the so-called "Great Sage Equal to Heaven"
+
+Translated by Hua Chenyu English Subs
 </div>

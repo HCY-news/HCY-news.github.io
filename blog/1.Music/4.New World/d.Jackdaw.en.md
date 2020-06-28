@@ -1,117 +1,131 @@
-# My Skateboard Shoes 2016 {title}
-# 我的滑板鞋 2016
+# Jackdaw Boy {title}
+# 寒鴉少年
 <div class="background" markdown="1">
-![](https://s1.ax1x.com/2020/06/22/NGGe9e.jpg)
+![](https://s1.ax1x.com/2020/06/28/NgaSXT.jpg)
 </div>
 
-在《天籁之战第一季》第三期节目中，华晨宇被素人指定改编《我的滑板鞋》。华晨宇研究了歌词，觉得非常适合改变成说唱，希望把这首歌写成诉说感很强的歌。因为歌曲本身说唱的节奏是非常个人化的节奏，所以华晨宇大部分的时间花在改编节奏上，用了很长的时间想这首歌的框架。华晨宇把歌曲原有的节奏拆了再重新拼装起来，花了很长的时间；但是录和声的时间很短，几分钟就搞定了。歌曲加入了许多自身喜欢的摇滚及Rap元素，且在24小时内改编完成
+<div class="center shadow" markdown="1">
+![](https://s1.ax1x.com/2020/06/28/NgaAhR.png =60%x*)
+</div>
+
+The theme song of TV Drama "Battle Through the Heaven"
+
+The song was written by Ding Yanxue and named after the unique and slightly vicissitudes of the animal concept like "Jackdaw"
+
+As Kafka himself points out, the name “Kafka” "The boy named Crow" ("Kafka" sounds like "kavka", which means "jackdaw", a crow-like bird, in Czech). Jackdaw is harbingers of protection, warning, and advice. More specifically, they signify wisdom that feels as if it is coming from an inner voice or conscience.
+
+Producer Bernard Zheng arranged the song with layered effect, uncomplicated orchestration, and absolutely explosive musical performance. To organize the progressive relationship of rock and roll.
 
 ---------------------------------
 
-####《My Skateboard Shoes 2016》The Next Show 20161101
+####《Jackdaw Boy》Official MV 2018
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9KuwVAq8-lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHuamazing%2Fvideos%2F545321775944961%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-####《My Skateboard Shoes 2016》2016 Tmall 11/11 Shopping Festival
+####《Jackdaw Boy》Mars Concert 20180908
+#### 寒鸦少年 华晨宇 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h1-BPn3Pjl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vUFcqzDsVTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+####《Jackdaw Boy》Singer 2020
+#### 寒鸦少年 歌手2020
+
+<iframe allowfullscreen height=360 src="https://rio6.github.io/Subtube?v=EgD10P0qmbg&subtitle-English=https://dl.dropboxusercontent.com/s/0tk4hi247wgx0o8/Singer2020%20EP1%20Jackdaw%20Boy.srt"></iframe>
 
 #### Lyrics:
 <div class="box">
-《My Skateboard Shoes 2016》
-      我的滑板鞋 2016  
+《Jackdaw Boy》
+    寒鴉少年  
    
-Composers: Hua Chenyu, Joseeh Punmanlon
-Lyricists: Joseeh Punmanlon, Hua Chenyu
-Arranger: Bernard Zheng
+Composer: Hua Chenyu
+Lyricist: Ding Yanxue
+Arranger: Bernard Zheng, Hua Chenyu
+Producer: Bernard Zheng
 
-There are things that I’ve forgotten
-But I still remember
-that my mom asked me one night
-Why are you sad today
-I said in my imagination there was a pair of skateboard shoes
-Unique, most fashionable, and perfect for dancing
+Like a mime play, the vision is blurred by fog
+Evidence of sneaky prying
+is fully exposed under the sun
+Moonlight is settling down and praying
+Crows open their mouth
+Mouth Mouth
 
-I searched through every street in the city
-Yet I could not find it
-She said I would find it one day
-and time will give me an answer
+I pack up my pride and forgive the lame jokes
+Just go Just go
+Don't exalt heedlessly
 
-I went out searching on Sunday once more
-Yet I still couldn’t find it
+I raise my fists in a fighting stance
+Aiming at the raging time
+Just go Just go
+Don't dispute loudly
 
-One month later I went to another city
-People here call it the City of Glamour
+Waiting for me to cruise around --
+fading calligraphy scrolls and
+trapped beasts in the final round
 
-Time flew by and the night was about to fall
-I thought it was time to go
-Just when I was about to leave
-I passed by a specialty store
-Sitting there were the skateboard shoes
-that I wanted
-Sitting there were the skateboard shoes
-that I wanted
+When the duel sends its greetings to --
+charred smoking pipes and tangled lines of ploys
 
-My skateboard shoes were the most fashionable, the most fashionable
+Fight against tyranny head-on
+Rein in childish practice
+Then reverse anticipations and premeditations
 
-On the way home, I couldn't help
-Rubbing rubbing
-Rubbing my feet on the glossy floor
-Rub it
-Rubbing my feet on the glossy floor
-Rub it
+Playing all kinds of roles
+- who assists with malice?
+Guides while backstabbing
+Take humiliation as medicine
+Thank you for letting me see through everything
+Don't take me as a fool
+A fool A fool
 
-One step two step, I rub it
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-One step two step, I rub it
+I pack up my pride and forgive the lame jokes
+Just go Just go
+Don't exalt heedlessly
 
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-I see my shadow under the moonlight
-Sometimes far sometimes near
-I felt a power driving my steps
-With my skateboard shoes,
-even the night won't scare me
-With my skateboard shoes,
-even the night won't scare me
+I raise my fists in a fighting stance
+Aiming at the raging time
+Just go Just go
+Don't dispute loudly
 
-This was a beautiful moment in my life
-I wanted to finish my favorite dance
-Under this beautiful moonlight
-On this beautiful street
-I told myself that it was real
-It was not a dream
-I told myself it was real and not a dream
-Rubbing rubbing rubbing
-Rubbing my feet on the glossy floor, rub it
-Rubbing my feet on the glossy floor, rub it
-Rubbing my feet on the glossy floor
+Waiting for me to cruise around --
+fading calligraphy scrolls and
+trapped beasts in the final round
 
-One step two step, I rub it
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-One step two step, I rub it
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-One step two step, I rub it
+When the duel sends its greetings to --
+charred smoking pipes and tangled lines of ploys
 
-Step by step like the steps of the devil
-Rubbing my feet on the glossy floor
-I see my shadow under the moonlight
-Sometimes far and sometimes near
-I felt a power driving my steps
-With my skateboard shoes,
-even the night won't scare me
-With my skateboard shoes,
-even the night won't scare me
+Fight against tyranny head-on
+Rein in childish practice
 
-This was a beautiful moment in my life
-I wanted to finish my favorite dance
-Under this beautiful moonlight
-On this beautiful street
-I told myself that it was real and not a dream
-I told myself that it was real and not a dream
+Then reverse the anticipation and premeditation
+The world is too long and time too short
+What is there that is worth a celebration
+It's too late to look back
+I have forgotten that there are returning paths
+The hardest is to tame oneself
+It is better to stop when one wants to cry
+Back-flowing tears will turn solid
+to guard and protect
 
-Translated by Hua CHenyu English Subs
+I pack up my pride and forgive the lame jokes
+Just go Just go
+Don't exalt heedlessly
+
+I raise my fists in a fighting stance
+Aiming at the raging time
+Just go Just go
+Don't dispute loudly
+
+Waiting for me to cruise around --
+fading calligraphy scrolls and
+trapped beasts in the final round
+
+When the duel sends greetings to --
+charred smoking pipes and
+tangled lines of ploys
+
+Fight against tyranny head-on
+Rewrite the mime after the reversal
+Let the truth freely play its tune
+
+Translated by Hua Chenyu English Subs
 </div>
