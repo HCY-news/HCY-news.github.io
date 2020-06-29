@@ -38,6 +38,7 @@ The song was composed by Hua Chenyu; it was arranged and produced by Zheng Nan; 
 
 #### Lyrics:
 <div class="box">
+<div class="lyrics" style="width: 55%; text-align: right">
 《I'm Boring》
     无聊人  
    

@@ -154,6 +154,33 @@ div:focus, ul:focus, li:focus {
     cursor: pointer;
 }
 
+.box {
+    background-color: var(--bg-box);
+    font-size: 14px;
+    padding: 0.5em;
+    border: 2px solid var(--border-box);
+    max-height: 40vh;
+    overflow-y: scroll;
+    scrollbar-color: var(--fg-dim) var(--bg-color);
+}
+
+.box::-webkit-scrollbar {
+    width: 1em;
+}
+.box::-webkit-scrollbar-thumb {
+    background: var(--fg-dim);
+}
+.box::-webkit-scrollbar-corner,
+.box::-webkit-scrollbar-track {
+    background: var(--bg-scroll);
+}
+
+.lyrics {
+    white-space: pre-line;
+    display: inline-block;
+    vertical-align: top;
+}
+
 #lang-select:empty {
     display: none;
 }
@@ -510,26 +537,4 @@ div:focus, ul:focus, li:focus {
     #content iframe {
         height: 30em;
     }
-}
-
-#content .box {
-    background-color: var(--bg-box);
-    font-size: 14px;
-    padding: 0.5em;
-    border: 2px solid var(--border-box);
-    max-height: 40vh;
-    overflow-y: scroll;
-    scrollbar-color: var(--fg-dim) var(--bg-color);
-    white-space: pre-wrap;
-}
-
-#content .box::-webkit-scrollbar {
-    width: 1em;
-}
-#content .box::-webkit-scrollbar-thumb {
-    background: var(--fg-dim);
-}
-#content .box::-webkit-scrollbar-corner,
-#content .box::-webkit-scrollbar-track {
-    background: var(--bg-scroll);
 }

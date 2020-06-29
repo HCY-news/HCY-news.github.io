@@ -1,0 +1,122 @@
+# The Next Season One 2016 {title}
+### 天籟之戰 I 2016
+<div class="background" markdown="1">
+![](https://s1.ax1x.com/2020/06/29/NW0Bfe.jpg)
+</div>
+
+<div class="center shadow" markdown="1">
+![](https://s1.ax1x.com/2020/06/29/NW7cGQ.jpg =80%x*)
+</div>
+
+"The Next" (天籁之战) is a Chinese music variety show where contestants get to challenge judges who are famous musicians in a sing-off. The winner of the sing-off is determined by votes from the 400-member live audience. The challenged judge has to perform a song picked by the contestant and only has 24 hours to learn and rearrange the given song, while the contestant can sing a song of their own choice. Hua was a judge on the show and had a very high winning rate, to the point that in one episode, no contestant wanted to challenge Hua, fearing that they would certainly lose. During the show, contestants kept coming up with new strategies to beat Hua. For example, one contestant challenged him to sing a viral meme song “My Skateboard Shoes” which is regarded as a so-bad-it’s-good kind of song. The original song has no rhyme or rhythm and Hua was able to rewrite the entire song into something coherent in 24 hours. In a later episode, another contestant picked a piece of theme music with no lyrics for Hua, and Hua was able to write an entirely new song (The Monkey King 齐天大圣) using snippets from the original music in 24 hours.
+
+---------------------------------
+
+####《Wandering》The Next Season One Ep1 20161016
+#### 华晨宇《流浪記》《天籁之战1》第1期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/QRD6L92rAAA)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xaLu7KMIZz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《Clouds from Home Town》The Next Season One EP2 20161023
+#### 华晨宇《故鄉的雲》《天籁之战1》第2期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/KCg6KarT5V0)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dbdZGDS4fHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《Clouds from Home Town》The Next Season One EP2 20161101
+#### 华晨宇《我的滑板鞋2016》《天籁之战1》第3期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/tm_WxuJbDGg)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9KuwVAq8-lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《Mice love Rice》The Next Season One EP4 20161108
+#### 华晨宇《老鼠爱大米》《天籁之战1》第4期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/EQJGzcy13ls)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dXIx1goRtgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《Dear Friend》The Next Season One EP6 Hua Chenyu 20161122
+#### 华晨宇《親愛的朋友》《天籁之战1》第6期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/uG2nkLpGIOY)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfbepO4RmeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+#### 《Great Sage Equal to Heaven》The Next Season One EP7 20161129
+#### 华晨宇《齐天大圣》《天籁之战1》第7期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/biTzhToldz4)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6XiR7GhWaTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+--------------------
+
+#### Flammable and Explosive》The Next Season One EP9 20161211
+#### 华晨宇《易燃易爆炸》《天籁之战1》第9期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/zMNC2cw1D7k)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5F1sRG0q8-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------------
+
+####《Nanping Evening Bell》The Next Season One EP10 20161218
+#### 华晨宇《南屏晚钟》《天籁之战1》第10期 
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/VmA89b-AomA)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBGvP1-IDaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------------
+
+####《If You Were Li Bai》The Next Season One EP11 20161225
+华晨宇《如果你是李白》《天籁之战1》第11期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/xLJNuYgdyjQ)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPSLrF9BLSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------------
+
+####《Perhaps Love》The Next Season One EP12 201601
+#### 华晨宇《如果爱》《天籁之战1》第12期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/HAshYNsgRsY)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsxf7ie3ALE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

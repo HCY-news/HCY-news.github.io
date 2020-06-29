@@ -1,0 +1,123 @@
+# The Next Season Two 2017 {title}
+### 天籟之戰 II 2017
+<div class="background" markdown="1">
+![](https://s1.ax1x.com/2020/06/29/NWH9iD.jpg)
+</div>
+
+<div class="center shadow" markdown="1">
+![](https://s1.ax1x.com/2020/06/29/NW7OMR.jpg =80%x*)
+</div>
+
+"The Next" (天籁之战) is a Chinese music variety show where contestants get to challenge judges who are famous musicians in a sing-off. The winner of the sing-off is determined by votes from the 400-member live audience. The challenged judge has to perform a song picked by the contestant and only has 24 hours to learn and rearrange the given song, while the contestant can sing a song of their own choice. Hua was a judge on the show and had a very high winning rate, to the point that in one episode, no contestant wanted to challenge Hua, fearing that they would certainly lose. During the show, contestants kept coming up with new strategies to beat Hua. For example, one contestant challenged him to sing a viral meme song “My Skateboard Shoes” which is regarded as a so-bad-it’s-good kind of song. The original song has no rhyme or rhythm and Hua was able to rewrite the entire song into something coherent in 24 hours. In a later episode, another contestant picked a piece of theme music with no lyrics for Hua, and Hua was able to write an entirely new song (The Monkey King 齐天大圣) using snippets from the original music in 24 hours.
+
+---------------------------------
+
+####《Maiden of Alishan》The Next Season Two EP1 20171015
+#### 华晨宇《阿里山的姑娘》《天籁之战2》第1期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/TGZsDnCUSyM)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gAwKJvmunj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《Heaven》The Next Season Two EP2 20171022
+#### 华晨宇《天堂》《天籁之战2》第2期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/H2mvc0miJ-w)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMGy5U0bTU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《Midnight Song》The Next Season Two EP3 Hua Chenyu 
+#### 华晨宇《夜半歌声》《天籁之战2》第3期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/khCDLCcG7Y4)
+</div>
+
+<iframe width="978" height="550" src="https://www.youtube.com/embed/OeYWgAnoyCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------------
+
+####《Hold You Closely In My Arms》The Next Season Two EP4
+#### 华晨宇 赵宥乔《深情相拥》《天籁之战2》第4期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/4hdzEwxzuuk)
+</div>
+
+<iframe width="978" height="550" src="https://www.youtube.com/embed/EpmGruW807U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《I am not good looking but I am gentle》The Next Season Two EP5 
+#### 华晨宇《我很丑可是我很温柔》《天籁之战2》第5期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/EdsWaWQhZ08)
+</div>
+
+<iframe width="978" height="550" src="https://www.youtube.com/embed/1Xvn0WG1Hpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+####《Code Name Contra》The Next Season Two EP6
+#### 华晨宇《代号魂斗罗》《天籁之战2》第6期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/uG2nkLpGIOY)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfbepO4RmeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+#### 《Great Sage Equal to Heaven》The Next Season One EP7 20161129
+#### 华晨宇《齐天大圣》《天籁之战1》第7期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/8KUljeKIoBg)
+</div>
+
+<iframe width="978" height="550" src="https://www.youtube.com/embed/yUfJqcGzAvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+--------------------
+
+#### 《Dad, I'm Home》The Next Season Two EP8
+#### 华晨宇《爸我回来了》《天籁之战2》第8期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/nhyT8HDT4lg)
+</div>
+
+<iframe width="978" height="550" src="https://www.youtube.com/embed/pS57NUUNoJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------------
+
+####《Idiot》The Next Season Two EP12 
+#### 华晨宇 马璐《白痴》《天籁之战2》第12期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/Iq_D-o9KY5Y)
+</div>
+
+<iframe width="978" height="550" src="https://www.youtube.com/embed/wMgp0hHB8u4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------------
+
+####《Insignificance》The Next Season Two EP13
+华晨宇 耿斯汉《渺小》《天籁之战2》第13期
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/29/NWsNge.jpg )](https://youtu.be/BClZoVLwZCE)
+</div>
+
+<iframe width="978" height="550" src="https://www.youtube.com/embed/NLJZwFXIYPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

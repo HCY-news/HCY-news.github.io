@@ -48,6 +48,7 @@ Theme Song of the Movie Wu Kong
 
 #### Lyrics:
 <div class="box">
+<div class="lyrics" style="width: 55%; text-align: right">
 《Qi-Tian/Equal to Heaven》
           齐天  
    

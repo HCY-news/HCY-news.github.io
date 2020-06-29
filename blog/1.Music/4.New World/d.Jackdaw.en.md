@@ -34,6 +34,7 @@ Producer Bernard Zheng arranged the song with layered effect, uncomplicated orch
 
 #### Lyrics:
 <div class="box">
+<div class="lyrics" style="width: 55%; text-align: right">
 《Jackdaw Boy》
     寒鴉少年  
    
