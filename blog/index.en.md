@@ -4,12 +4,6 @@
 ![](https://s1.ax1x.com/2020/07/01/Not5nA.jpg)
 </div>
 
-#### How to Pronounce Hua Chenyu in Mandarin
-#### 如何正確唸華晨宇
-
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/7e3b6840-53cf-4508-81a9-d95d41157228" frameborder="0" allowfullscreen></iframe>
-
-
 Welcome to the Martian Family! We are thrilled to have you on board and can’t wait for you to begin experiencing the magic power of Hua Chenyu’s innovative performances!
 
 Hua Chenyu is one of the most amazing and influential artists in China today!  His highly creative music draws you into his philosophical and surreal world that ignites one’s imagination and stimulates their senses.
@@ -27,6 +21,11 @@ In Hua Chenyu’s world of music, you will feel his feelings as he takes you on 
 在这里，生命的各种处境都得到精彩的呈现和悲悯的解构。然而，他的音乐还不止于此！你甚至可以超越自身，从而体验一种神话般的浪漫和宏大：你可以是一只把蓝色星球捧在手心凝视的一只巨鹿，可以是见证万物崩坏生灵涂炭的一棵神树，更可以是云端指引懵懂生灵奔向宽宥白昼的神明。
 
 你可以在他的音乐世界里感受浪漫的，纯净的，宏大的，圣洁的，扭曲的，疯狂的，黑暗的等种种各异却毫无例外都洋溢着爱与美的一切情感。
+
+#### How to Pronounce Hua Chenyu in Mandarin
+#### 如何正確唸華晨宇
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/7e3b6840-53cf-4508-81a9-d95d41157228" frameborder="0" allowfullscreen></iframe>
 
 <div id="disqus_thread"></div>
 <script>
