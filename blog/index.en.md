@@ -1,8 +1,10 @@
 # Hua Chenyu {title}
 # 華晨宇
 <div class="background" markdown="1">
-![](https://s1.ax1x.com/2020/07/08/UEmufU.jpg)
+![](https://s1.ax1x.com/2020/07/12/U1zl5t.gif)
 </div>
+https://s1.ax1x.com/2020/07/08/UEmufU.jpg
+
 
 Welcome to the Martian Family! We are thrilled to have you on board and can’t wait for you to begin experiencing the magic power of Hua Chenyu’s innovative performances!
 
