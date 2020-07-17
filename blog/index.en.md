@@ -1,9 +1,8 @@
 # Hua Chenyu {title}
 # 華晨宇
 <div class="background" markdown="1">
-![](https://s1.ax1x.com/2020/07/08/UVPpC9.jpg)
+![](https://s1.ax1x.com/2020/07/15/UdVBkj.jpg)
 </div>
-https://s1.ax1x.com/2020/07/13/UJGOaD.gif
 
 Welcome to the Martian Family! We are thrilled to have you on board and can’t wait for you to begin experiencing the magic power of Hua Chenyu’s innovative performances!
 
@@ -49,6 +48,8 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
+
+## Welcome to leave your information if you have a plan to the Mars Concert.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOUKf7ew0tDcxDNPqPY369uiWmp6SqwBwnPk8XKagDtC13fQ/viewform?embedded=true" width="640" height="2851" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
 
