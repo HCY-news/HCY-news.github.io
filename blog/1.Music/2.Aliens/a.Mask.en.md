@@ -1,4 +1,4 @@
-# Mask {title}
+# The Mask {title}
 <div class="background" markdown="1">
 ![](https://s1.ax1x.com/2020/06/25/N0Rnr8.jpg)
 </div>

@@ -29,7 +29,7 @@ Lyricist: Dai Yuedong
 Arranger: Bernard Zheng
 
 Let me gently
-Tell you a bedtime story
+Tell you a Bedtime Story
 
 Once upon a time, there is a long-haired princess
 Who secretly falls in love with a frog
@@ -65,7 +65,7 @@ Woo~~ Woo~~
 Woo~~ Woo~~
 
 Tomorrow too I will tell you
-Another bedtime story
+Another Bedtime Story
 Tonight even the moon is sleepy
 whispering in your ear, good night
 

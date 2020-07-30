@@ -22,9 +22,12 @@
     --border-box: #fff;
 
     --content-width: 60vw;
+    --content-padding: 1.5em;
     --content-min: 300px;
     --content-max: 20cm;
     --footer-height: 80px;
+    
+    --animation-time: 0.5s;
 }
 
 html {
@@ -36,7 +39,7 @@ body {
     color: var(--fg-color);
     background-color: var(--bg-body);
     text-align: center;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: "Open Sans", "Microsoft JhengHei","Microsoft YaHei", sans-serif;
     font-size: 18px;
     margin: 0 0 var(--footer-height);
 }
@@ -238,7 +241,7 @@ div:focus, ul:focus, li:focus {
     min-width: var(--content-min);
     max-width: var(--content-max);
     margin: 0 auto;
-    padding: 0 1em;
+    padding: 0 var(--content-padding);
     border-radius: 20px 0 0;
 }
 
@@ -265,6 +268,7 @@ div:focus, ul:focus, li:focus {
     text-align: left;
     padding: 0.5em;
     position: relative;
+    transition: background-color var(--animation-time);
 }
 
 #nav-list li:hover, #nav-list li:focus {
@@ -286,21 +290,41 @@ div:focus, ul:focus, li:focus {
     line-height: 1em;
 }
 
+@keyframes fadeInFromNone {
+    0% {
+        display: none;
+        opacity: 0;
+    }
+    1% {
+        display: block;
+        opacity: 0;
+    }
+    100% {
+        display: block;
+        opacity: 1;
+    }
+}
+
 /* level >1 */
 #nav-list > ul ul {
     position: absolute;
     display: none;
     background-color: var(--bg-nav2);
+    opacity: 0;
 }
 
 #nav-list li:focus > ul,
 #nav-list li:focus-within > ul {
     display: block;
+    opacity: 1;
+    animation: fadeInFromNone var(--animation-time) ease-out;
 }
 
 @media only screen and (min-width: 1020px) {
     #nav-list li:hover > ul {
         display: block;
+    opacity: 1;
+        animation: fadeInFromNone var(--animation-time) ease-out;
     }
 }
 
@@ -482,17 +506,13 @@ div:focus, ul:focus, li:focus {
 #content {
     background-color: var(--bg-color);
     display: inline-block;
-    padding: 1em;
+    padding: var(--content-padding);
     box-shadow: 3px 10px 10px 5px;
     min-height: 50vh;
-}
-
-#content {
     text-align: left;
     width: var(--content-width);
     min-width: var(--content-min);
     max-width: var(--content-max);
-    display: inline-block;
 }
 
 #content p {
@@ -515,6 +535,7 @@ div:focus, ul:focus, li:focus {
 #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
     color: var(--fg-title);
     text-align: center;
+    margin: 0;
 }
 
 #content iframe {
