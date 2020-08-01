@@ -1,4 +1,4 @@
-# Qi-Tian/Equal to Heaven {title}
+# Qi-Tian / Equal to Heaven {title}
 # 齐天
 <div class="background" markdown="1">
 ![](https://s1.ax1x.com/2020/06/28/Ng30rd.jpg)
@@ -18,30 +18,30 @@ Theme Song of the Movie Wu Kong
 
 ---------------------------------
 
-####《Qi-Tian/Equal to Heaven》Official MV
+####《Qi-Tian / Equal to Heaven》Official MV
 #### 《齐天》MV 電影悟空傳主題曲
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzcl7vuQt3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-####《Qi-Tian/Equal to Heaven》Mars Concert 20171014
+####《Qi-Tian / Equal to Heaven》Mars Concert 20171014
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/539746f4-bc43-4729-91f7-f2eea0bd123d" frameborder="0" allowfullscreen></iframe>
 
-####《Qi-Tian/Equal to Heaven》Singer 2018
+####《Qi-Tian / Equal to Heaven》Singer 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MkgexVQ-JHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-####《Qi-Tian/Equal to Heaven》Come Sing With Me S3 EP8
+####《Qi-Tian / Equal to Heaven》Come Sing With Me S3 EP8
 #### 华晨宇《齐天》-《我想和你唱3》
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ynaqmqDlQzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-####《Qi-Tian/Equal to Heaven》Hunan TV New Year Countdown Concert 2018
+####《Qi-Tian / Equal to Heaven》Hunan TV New Year Countdown Concert 2018
 #### 湖南卫视跨年演唱会 华晨宇《齐天》
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rn2SU6DRP2Y?start=277" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-####《Qi-Tian/Equal to Heaven》Zhejiang TV 20190713
+####《Qi-Tian / Equal to Heaven》Zhejiang TV 20190713
 #### 浙江衛視年中盛典《齐天》
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2qu8FdrbwP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,7 +49,7 @@ Theme Song of the Movie Wu Kong
 #### Lyrics:
 <div class="box">
 <div class="lyrics" style="width: 55%; text-align: right">
-《Qi-Tian/Equal to Heaven》
+《Qi-Tian / Equal to Heaven》
           齐天  
    
 Theme Song of the Movie Wu Kong

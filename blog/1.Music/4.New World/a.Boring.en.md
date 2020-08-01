@@ -100,10 +100,10 @@ Have you earned a probation from those useless words?
 The fear of being exposed right before it happens
 That is exactly the excitement you wanted
 
-I'm boring
+I'm Boring
 I just want to be alone, no need to talk
 
-I'm boring
+I'm Boring
 I just want to be alone, no need to smile
 
 I want to gaze at the twinkling stars
@@ -156,10 +156,10 @@ Someone explain why the "good man" pass
 became so fashionable
 As though getting it determines one’s nature
 
-I'm boring
+I'm Boring
 I just want to be alone, no need to talk
 
-I'm boring
+I'm Boring
 I just want to be alone, no need to smile
 
 I'm chewing the most expensive dinner
