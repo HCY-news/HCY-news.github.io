@@ -25,8 +25,8 @@
     --divider-color2: #fffa68;
 
     --content-width: 60vw;
-    --content-padding: 1.5em 6.5em;
-    --content-min: 300px;
+    --content-padding: 1.5em 5%;
+    --content-min: min(500px, 100%);
     --content-max: 20cm;
     --footer-height: 80px;
     
@@ -546,6 +546,7 @@ div:focus, ul:focus, li:focus {
     max-width: var(--content-max);
     position: relative;
     border-radius: 20px 0 0;
+    box-sizing: border-box;
 }
 
 #content p {
