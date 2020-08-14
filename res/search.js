@@ -10,7 +10,7 @@ window.onload = function() {
             var item = params[i];
             var s = item.split("=");
             if(s[0] === 'q') {
-                searchQuery = s[1] && decodeURIComponent(s[1]);
+                searchQuery = s[1] && decodeURIComponent(s[1].replace(/\+/g, ' '));
                 sessionStorage['query'] = searchQuery;
                 break;
             }
@@ -19,8 +19,13 @@ window.onload = function() {
         searchQuery = sessionStorage['query']
     }
 
+    document.getElementById('search-query').innerText = searchQuery;
+    document.querySelector('.search-box input[type="search"]').value = searchQuery;
+
     var fuse = new Fuse(searchData, {
         keys: ['title', 'content'],
+        minMatchCharLength: 2,
+        ignoreLocation: true,
         threshold: 0.5,
     });
 
@@ -45,8 +50,6 @@ window.onload = function() {
         html += '</div>';
     }
 
-    document.getElementById('search-query').innerText = searchQuery;
-    document.querySelector('.search-box input[type="search"]').value = searchQuery;
     document.getElementById('search-result').innerHTML = html;
     document.getElementById('search-count').innerText = results.length;
 };
