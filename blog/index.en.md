@@ -22,11 +22,21 @@ In Hua Chenyu’s world of music, you will feel his feelings as he takes you on 
 
 你可以在他的音乐世界里感受浪漫的，纯净的，宏大的，圣洁的，扭曲的，疯狂的，黑暗的等种种各异却毫无例外都洋溢着爱与美的一切情感。
 
-#### For Latest News, please follow our: 
+  
 
-★ Facebook  https://www.facebook.com/Huamazing  
-★ Instagram https://www.instagram.com/huachenyu_news/  
-★ Twitter   https://twitter.com/hua_news  
+#### For Latest News, please follow our: 
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/21/N10gYV.png =20%x*)](https://www.facebook.com/Huamazing)
+</div>
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/21/N10yoq.png =20%x*)](https://www.instagram.com/huachenyu_news)
+</div>
+
+<div class="center shadow" markdown="1">
+[![](https://s1.ax1x.com/2020/06/21/N10hy4.png =20%x*)]( https://twitter.com/hua_news)
+</div>
+
 
 
 #### How to Pronounce Hua Chenyu in Mandarin
