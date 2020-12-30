@@ -3,7 +3,9 @@
 ![](https://s1.ax1x.com/2020/06/25/N0h5i4.png)
 </div>
 
-《忧伤的巨人》是专辑《异类》最后曝光的一首歌，也是华晨宇为专辑写的第一首歌，它以一种“从未尝试过的原生态Demo形式”出现，创作独特，让人耳目一新。整首歌曲由华晨宇边弹边唱，纯钢琴伴奏。是华晨宇送给歌迷的礼物。
+"The Giant in Sorrow" appeared in a never unique "native ecological demo" form, composed by Hua Chenyu, the lyrics by Dai Yuedong, A unique creation and refreshing. The whole song was played and sung by Hua Chenyu, accompanied purely by a piano. It's a gift from Hua Chenyu to his fans.
+
+《忧伤的巨人》是专辑《异类》最后曝光的一首歌，也是华晨宇为专辑写的第一首歌，它以一种"从未尝试过的原生态Demo形式"出现，创作独特，让人耳目一新。整首歌曲由华晨宇边弹边唱，纯钢琴伴奏。是华晨宇送给歌迷的礼物。
 
 ---------------------------------
 

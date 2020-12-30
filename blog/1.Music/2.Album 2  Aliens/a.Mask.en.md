@@ -3,6 +3,8 @@
 ![](https://s1.ax1x.com/2020/06/25/N0Rnr8.jpg)
 </div>
 
+"Mask" composed by Takuya, Lin Chengyou, Jimmy Fung and Hua Chenyu, and the lyrics by Dai Yuedong
+
 《变相怪杰》是华晨宇专辑《异类》中的一首歌，由Takuya、林承佑、Jimmy Fung与华晨宇共同谱曲，代岳东填词。
 
 ---------------------------------
