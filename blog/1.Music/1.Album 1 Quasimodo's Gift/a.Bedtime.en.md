@@ -3,9 +3,7 @@
 ![](https://s1.ax1x.com/2020/06/21/N3Q1v6.jpg)
 </div>
 
-From the set of songs sent by the copyright company, he noticed this demo, along with its soft and whispering sense of narration. He felt that it isn't a grand song, yet is still one that is full of emotion. The demo gives a feeling of soul music, with simply a guitar accompanying the chanting. Lyricist Ronald is a novice in his field and during his two years in the UK, he was influenced by the 90's pop, R&B, and soul music singers and songwriters. He was eager to "integrate feelings and emotions into the song" and was determined to become an inspiring songwriter.
-
-The requirements for the lyrics can be summed up to two words: "simple" and "love". Dai Yuedong emailed the lyrics in the middle of one night in June, writing, "You might laugh when you read the lyrics. Fairy tales, little frogs. I don't think that any person other than I would write about such an interesting theme~ I kind of am willing to try what others don't even dare to think about~ Only like this will it be interesting~ Haha". "I think that it's more interesting to sing a song that is unfettered as this; plus it's also not quite seen in the record market, is it?" At his concert, Hua Chenyu also expressed that he loved the lyrics at first site.
+“Bedtime Story” is not what you would call a "big" song, with only a guitar for accompaniment; however, the lyrics are simple and touching. They relate the fairy tale story of a princess who falls in love with a frog, marries him against the family objections, and then they go away to live happily ever after. The novice songwriter, Ronald Tsui, spent a few years in the UK and was influenced by 90s pop, R&B, and soul, but was focused on two things; simplicity and love. The writer of the lyrics in Chinese, Dai Yuedong, emailed them in the middle of the night to Hua, laughingly pointing out the frogs, the prince, and the fairy tale-like aspects of the subject matter. It was love at first sight for Hua Hua.
 
 版权公司投来的一批歌里，听到这首小样，娓娓道来的倾诉性，不是一首多大的歌，却很动人。小样里就伴着一把吉他的吟唱，soul的感觉。曲作者Ronald 是新作者，在英国呆了两年。受到90's流行，节奏蓝调，灵魂乐的歌手以及词曲作者的影响，渴望"将感觉与情感融入歌曲中"，立志变成有感召力的词曲人。
 
