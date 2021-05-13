@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <script>
+            //var langs = ['en', 'zh-CN'];
+            var langs = ['en'];
+            var lang = localStorage['language'] || navigator.language;
+            if(!langs.some(function(l) {
+                if(l.slice(0, 2) === lang.slice(0, 2)) {
+                    lang = l;
+                    return true;
+                }
+            })) {
+                lang = langs[0];
+            }
+
+            var path = document.location.pathname;
+            if(path === '/') path = '/index.html';
+
+            document.location.replace(
+                path.replace(/.html$/, '.' + lang  + '.html') + document.location.search + document.location.hash
+            );
+        </script>
+    </head>
+    <body>
+        Something's wrong. <a href='index.en.html'>Click here</a> to go to the home page
+    </body>
+</html>
